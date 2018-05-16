@@ -29,3 +29,4 @@ int main(int argc, char **argv){
 void manejadorUSR1(int s){
 	printf("Hijo vivo\n");
 }
+//probando
